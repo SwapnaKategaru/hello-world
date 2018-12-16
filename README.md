@@ -1,5 +1,11 @@
 # hello-world
 This is my first github repository. Hello World !
 
-This is my first commit in repository, from learning how to make commits in github repositories !
-This is my first successful commit in the repository!
+This is my second commit in first repository.
+
+### Creating a new repository.
+### Making a branch.
+### Commit changes.
+### Pull request.
+### Merge your pull request.
+### Deleting the branch.
